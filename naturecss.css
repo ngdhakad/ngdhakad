@@ -1,0 +1,21 @@
+h1{
+  color: blue;
+}
+body{
+  background-color: none;
+}
+img:hover{
+    border-radius: 200px;
+  background-color: gold;
+
+}
+img{
+  border-radius: 150px;
+  height: 400px;
+  width: 500px;
+}
+
+.hello:hover{
+  background-color: gold;
+  font-family: fantasy;
+}
