@@ -125,6 +125,7 @@ nav ul li{
     height: 50%;
 }
 table{
+    background-color: blue;
     color: rgb(247, 8, 8);
     font-size: xx-large;
     font-style: normal;
